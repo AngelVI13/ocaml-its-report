@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/generate_report/META"
+  "_build/install/default/lib/generate_report/dune-package"
+  "_build/install/default/lib/generate_report/opam"
+]
+bin: [
+  "_build/install/default/bin/generate_report"
+]

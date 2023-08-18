@@ -1,0 +1,4 @@
+(executable
+ (public_name generate_report)
+ (name main)
+ (libraries generate_report str))
